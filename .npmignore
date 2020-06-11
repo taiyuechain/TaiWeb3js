@@ -1,0 +1,12 @@
+*.idea
+test
+dist
+docs
+coverage
+.gitignore
+.editorconfig
+.travis.yml
+.npmignore
+.DS_Store
+.vscode
+node_modules
